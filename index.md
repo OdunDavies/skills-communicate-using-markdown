@@ -5,3 +5,6 @@ HTML
 <H6> wagwan </H6>
 
 ```
+- [x] Open Github
+- [x] create a read.me
+- [ ] tweet what i learn daily
